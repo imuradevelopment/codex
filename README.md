@@ -23,3 +23,9 @@
 cd nuxt3-app
 npm test
 ```
+
+## GitHub Pages へのデプロイ
+
+`main` ブランチに push すると、自動で GitHub Pages にデプロイされます。
+ワークフローは `.github/workflows/github-pages.yml` に定義されています。
+

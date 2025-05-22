@@ -1,0 +1,10 @@
+nuxt3-app/node_modules/
+nuxt3-app/.output/
+
+# logs
+npm-debug.log*
+
+# env
+.env
+
+nuxt3-app/package-lock.json
